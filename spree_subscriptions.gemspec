@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spree_core', '~> 1.1.2'
   s.add_dependency 'spree_auth', '~> 1.1.2'
-  s.add_dependency 'prawn', '~> 0.12.0'
+  s.add_dependency 'prawn', '~> 0.8.4'
   s.add_dependency 'prawn-labels', '~> 0.11.3'
 
   s.add_development_dependency 'capybara', '1.0.1'
